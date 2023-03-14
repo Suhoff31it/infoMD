@@ -53,13 +53,13 @@
 
 Например:
 
-![](https://avatars.mds.yandex.net/i?id=0ea405571daaee5111e6b02217665af2eea127ed-4322260-images-thumbs&n=13)
+![AVENGERS](https://i.pinimg.com/736x/1c/b8/0c/1cb80cf643e3d24cb4e1b4321f962edc--avengers-wallpaper-watch-free-movies.jpg)
 
 
 Второй вариант ссылка на реальное изображение с указанием локального адреса.
 Например:
 
-![](/terra.png)
+![Марвел](/Marvel.png)
 
 
 ## Ссылки 
